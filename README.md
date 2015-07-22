@@ -1,4 +1,7 @@
 # MartinOgPeter
 Sted hvor Martin og Peter opbevarer kode til sensorer, Raspberry Pi, osv
 
-OK, dette er så en edit på denne README fil. HVad kan man sige? Vi har store forhåbninge rom mgene ro og orden i vores filer, hvis dette her er til at huske.
+Opdelt i subdirectories for at vise de forskellige maskiners navne
+
+TNT2/ er Peters hjemme-linux maskine. Lagde min crontab.txt til, men
+den ser ud til at være overskrevet af een fra en RPi ... suk
